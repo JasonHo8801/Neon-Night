@@ -24,7 +24,7 @@ public class GroupSetDriver {
         namelist.addEntry("Mike");
         namelist.addEntry("Gon");
         namelist.addEntry("Ben");    
-        namelist.addEntry("Norn");
+        namelist.addEntry("Kenny");
         namelist.addEntry(6, "Tom");
         
         namelist.printList();
