@@ -32,6 +32,8 @@ public class GroupSetDriver {
         namelist.printList();
         namelist.switchEntry(5, 1);
         namelist.printList();
+        
+        System.out.println("Hello");
     }
     
 }
